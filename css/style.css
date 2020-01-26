@@ -72,7 +72,7 @@ padding: 24px 41px;
 border:none;
 }
 .hero-avatar {
-	display: block;
+	display: inline-block;
 	width: 389px;
 	height: 389px;
 	border-radius: 50%;
