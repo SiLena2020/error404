@@ -24,9 +24,6 @@ font-family: 'Roboto', sans-serif;
 	align-items: center;
 	margin-bottom: 104px;
 }
-.social-links {	
-
-}
 .social-link {
 margin-left: 20px;
 }
@@ -75,13 +72,13 @@ padding: 24px 41px;
 border:none;
 }
 .hero-avatar {
+	display: block;
 	width: 389px;
 	height: 389px;
 	border-radius: 50%;
 	background-image: url('../img/4d3lyWarig4.jpg');
 	background-color: white;
 	background-repeat: no-repeat;
-	
 	background-size: 120%;
 background-position: center top;
 	border: 13px solid white; 
